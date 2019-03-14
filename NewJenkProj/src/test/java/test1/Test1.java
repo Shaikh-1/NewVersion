@@ -19,6 +19,7 @@ public class Test1 {
 	@Test
 	public void test() {
 		System.out.println("Test Successful");
+		System.out.println("Test Test");
 	}
 
 }
